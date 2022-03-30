@@ -209,6 +209,16 @@ class PlayState extends MusicBeatState
 	var grpLimoDancers:FlxTypedGroup<BackgroundDancer>;
 	var fastCar:BGSprite;
 
+	var dabg:BGSprite;
+	var redbg:BGSprite;
+	var bgred:BGSprite;
+
+
+	var veio:FlxSprite;
+	var gordin:FlxSprite;
+	var menina:FlxSprite;
+	var veiobat:Int = 1;
+
 	var upperBoppers:BGSprite;
 	var bottomBoppers:BGSprite;
 	var santa:BGSprite;
